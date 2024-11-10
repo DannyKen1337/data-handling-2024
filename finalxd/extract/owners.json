@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P-000001",
+    "name": "Dr. Szabó Horváth Nóra",
+    "phone": "95/051-8726",
+    "address": "Drávamelléki utca 200.\nH-6535 Dunaújváros"
+  },
+  {
+    "id": "P-000002",
+    "name": "Horváth Szilágyi Tamás",
+    "phone": "06-74/573 2517",
+    "address": "Petőfi sándor utca 238.\nH-5610 Salgótarján"
+  },
+  {
+    "id": "P-000003",
+    "name": "Prof. Dr. Biróné Bogdán Márta Anikó",
+    "phone": "61/226 3056",
+    "address": "Dózsa györgy út 56.\nH-2026 Hátvár"
+  },
+  {
+    "id": "P-000004",
+    "name": "Nagyné Tóth Erzsébet",
+    "phone": "(06)47/248-8399",
+    "address": "Salgótarjáni utca 86.\nH-5943 Mezőgyörgyfalu"
+  },
+  {
+    "id": "P-000005",
+    "name": "Nagy Horváth Julianna",
+    "phone": "(69)/904-6752",
+    "address": "Nagykanizsai utca 198.\nH-2689 Érd"
+  },
+  {
+    "id": "P-000006",
+    "name": "Dr. Németh V. Mária",
+    "phone": "(06)83/705-6945",
+    "address": "Dunakeszii utca 129.\nH-8303 Kismártonkőrös"
+  },
+  {
+    "id": "P-000007",
+    "name": "Pál Roland",
+    "phone": "06-0/817 9037",
+    "address": "Kuni utca 28.\nH-6138 Békésgyörgynémeti"
+  },
+  {
+    "id": "P-000008",
+    "name": "Dr. Oláh Kiss Krisztofer",
+    "phone": "06-72/735 9126",
+    "address": "Béke utca 152.\nH-9563 Sopron"
+  },
+  {
+    "id": "P-000009",
+    "name": "P. Barna György",
+    "phone": "06-24/972 7862",
+    "address": "Petőfi sándor utca 183.\nH-6257 Székesfehérvár"
+  },
+  {
+    "id": "P-000010",
+    "name": "Fekete Tamásné Tóth Katalin",
+    "phone": "94/702-1563",
+    "address": "Hódmezővásárhelyi út 116.\nH-1978 Tótvég"
+  }
+]
