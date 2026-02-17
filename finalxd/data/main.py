@@ -17,8 +17,8 @@ def generate_histories(owners, cars, num_records=10, max_mileage=300000):
 
 def main():
     # Generate sample data
-    owners = generate_owner(n=10, male_ratio=0.5, locale="hu_HU", unique=True)
-    cars = generate_cars(n=10, automatic_ratio=0.5, locale="hu_HU", unique=True)
+    owners = generate_owner(n=10, male_ratio=0.5, locale="en_GB", unique=True)
+    cars = generate_cars(n=10, automatic_ratio=0.5, locale="en_GB", unique=True)
     histories = generate_histories(owners, cars, num_records=10)
 
     # Define file paths
